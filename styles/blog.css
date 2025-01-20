@@ -1,9 +1,6 @@
 div{
     background-color: tomato;
     padding: 20px;
+    margin-bottom: 10px;
 }
 
-h1{
-    color: turquoise;
-    font-family: 'Courier New', Courier, monospace;
-}
